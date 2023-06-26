@@ -1,0 +1,279 @@
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                      WARARCHIVES                                                      
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+2023-06-12 23:57:59.217 | INFO | Create forward: ForwardItem(serial='emulator-5554', local='tcp:20952',                
+remote='tcp:53516')                                                                                                    
+2023-06-12 23:57:59.297 | INFO | [Screen_size] 1280x720                                                                
+═════════════════════════════════════════════════════════ C1 ══════════════════════════════════════════════════════════
+2023-06-12 23:57:59.486 | INFO | C1                                                                                    
+2023-06-12 23:57:59.487 | INFO | Count: 0                                                                              
+2023-06-12 23:57:59.506 | INFO | <<< UI ENSURE >>>                                                                     
+2023-06-12 23:57:59.507 | INFO | UI get current page                                                                   
+2023-06-12 23:57:59.553 | INFO | [UI] page_event                                                                       
+2023-06-12 23:57:59.555 | INFO | Goto page_archives                                                                    
+2023-06-12 23:57:59.557 | INFO | <<< UI GOTO PAGE_ARCHIVES >>>                                                         
+2023-06-12 23:57:59.600 | INFO | Page switch: page_event -> page_main                                                  
+2023-06-12 23:57:59.602 | INFO | Click (1237,   25) @ GOTO_MAIN                                                        
+2023-06-12 23:57:59.602 | INFO | <<< MINITOUCH INIT >>>                                                                
+2023-06-12 23:57:59.611 | INFO | [Device Orientation] 0 (Normal)                                                       
+2023-06-12 23:57:59.613 | INFO | Create forward: ForwardItem(serial='emulator-5554', local='tcp:20107',                
+remote='localabstract:minitouch')                                                                                      
+2023-06-12 23:57:59.617 | INFO | v 1                                                                                   
+2023-06-12 23:57:59.618 | INFO | ^ 2 32767 32767 0                                                                     
+2023-06-12 23:57:59.619 | INFO | $ 25985                                                                               
+2023-06-12 23:57:59.619 | INFO | minitouch running on port: 20107, pid: 25985                                          
+2023-06-12 23:57:59.620 | INFO | max_contact: 2; max_x: 32767; max_y: 32767; max_pressure: 0                           
+2023-06-12 23:58:00.076 | INFO | Page switch: page_main -> page_campaign_menu                                          
+2023-06-12 23:58:00.077 | INFO | Click (1109,  399) @ MAIN_GOTO_CAMPAIGN                                               
+2023-06-12 23:58:00.994 | INFO | Page switch: page_campaign_menu -> page_archives                                      
+2023-06-12 23:58:00.996 | INFO | Click ( 279,  619) @ CAMPAIGN_MENU_GOTO_WAR_ARCHIVES                                  
+2023-06-12 23:58:01.578 | INFO | Page arrive: page_archives                                                            
+2023-06-12 23:58:01.580 | INFO | [War_Archives_switch] ex                                                              
+2023-06-12 23:58:01.703 | INFO | [WAR_ARCHIVES_SCROLL] 0.00 (75.0-75.5)/(565-151)                                      
+2023-06-12 23:58:01.704 | INFO | [WAR_ARCHIVES_SCROLL] 0.00 (75.0-75.5)/(565-151)                                      
+2023-06-12 23:58:01.705 | INFO | WAR_ARCHIVES_SCROLL set to 0.292                                                      
+2023-06-12 23:58:01.706 | INFO | [WAR_ARCHIVES_SCROLL] 0.00 (75.0-75.5)/(565-151)                                      
+2023-06-12 23:58:01.707 | INFO | Swipe (1259,  210) -> (1259,  324)                                                    
+2023-06-12 23:58:02.000 | INFO | [WAR_ARCHIVES_SCROLL] 0.29 (189.15833333333333-60.0)/(565-120)                        
+2023-06-12 23:58:02.810 | INFO | [WAR_ARCHIVES_SCROLL] 0.26 (184.5-76.0)/(565-152)                                     
+2023-06-12 23:58:02.812 | INFO | [WAR_ARCHIVES_SCROLL] 0.26 (184.5-76.0)/(565-152)                                     
+2023-06-12 23:58:02.813 | INFO | WAR_ARCHIVES_SCROLL set to 0.557                                                      
+2023-06-12 23:58:02.814 | INFO | [WAR_ARCHIVES_SCROLL] 0.26 (184.5-76.0)/(565-152)                                     
+2023-06-12 23:58:02.816 | INFO | Swipe (1257,  307) -> (1254,  439)                                                    
+2023-06-12 23:58:03.113 | INFO | [WAR_ARCHIVES_SCROLL] 0.59 (324.0-64.0)/(565-128)                                     
+2023-06-12 23:58:04.235 | INFO | [WAR_ARCHIVES_SCROLL] 0.58 (316.5-76.0)/(565-152)                                     
+2023-06-12 23:58:04.236 | INFO | [WAR_ARCHIVES_SCROLL] 0.58 (316.5-76.0)/(565-152)                                     
+2023-06-12 23:58:04.237 | INFO | WAR_ARCHIVES_SCROLL set to 0.877                                                      
+2023-06-12 23:58:04.238 | INFO | [WAR_ARCHIVES_SCROLL] 0.58 (316.5-76.0)/(565-152)                                     
+2023-06-12 23:58:04.239 | INFO | Swipe (1257,  432) -> (1254,  566)                                                    
+2023-06-12 23:58:04.536 | INFO | [WAR_ARCHIVES_SCROLL] 0.91 (466.3391304347826-57.5)/(565-115)                         
+2023-06-12 23:58:05.862 | INFO | [WAR_ARCHIVES_SCROLL] 0.91 (451.0-76.5)/(565-153)                                     
+2023-06-12 23:58:05.864 | INFO | [WAR_ARCHIVES_SCROLL] 0.91 (451.0-76.5)/(565-153)                                     
+2023-06-12 23:58:05.865 | INFO | WAR_ARCHIVES_SCROLL set to 1                                                          
+2023-06-12 23:58:05.866 | INFO | [WAR_ARCHIVES_SCROLL] 0.91 (451.0-76.5)/(565-153)                                     
+2023-06-12 23:58:05.867 | INFO | Swipe (1257,  573) -> (1255,  678)                                                    
+2023-06-12 23:58:06.144 | INFO | [WAR_ARCHIVES_SCROLL] 0.94 (478.925-60.0)/(565-120)                                   
+2023-06-12 23:58:06.447 | INFO | [WAR_ARCHIVES_SCROLL] 1.00 (489.0-75.5)/(565-151)                                     
+2023-06-12 23:58:07.758 | INFO | <<< UI CLICK >>>                                                                      
+2023-06-12 23:58:07.765 | INFO | Click ( 409,  490) @ war_archives_20220414_cn                                         
+2023-06-12 23:58:08.195 | INFO | [Mode_switch_1] normal                                                                
+2023-06-12 23:58:08.197 | INFO | <<< UI ENSURE INDEX >>>                                                               
+2023-06-12 23:58:08.234 | INFO | No stage found.                                                                       
+2023-06-12 23:58:08.508 | INFO | No stage found.                                                                       
+2023-06-12 23:58:08.826 | INFO | Loading OCR model: ./bin/cnocr_models/azur_lane                                       
+2023-06-12 23:58:08.870 | INFO | [campaign 0.057s] C1                                                                  
+2023-06-12 23:58:08.872 | INFO | [Chapter] c                                                                           
+2023-06-12 23:58:08.873 | INFO | [Stage] c1                                                                            
+2023-06-12 23:58:08.875 | INFO | [Index] 1                                                                             
+2023-06-12 23:58:08.907 | INFO | [OCR_DATA_KEY_CAMPAIGN 0.027s] 27/60                                                  
+2023-06-12 23:58:08.908 | INFO | Inventory: 27 / 60, Remain: 27                                                        
+2023-06-12 23:58:08.940 | INFO | [OCR_OIL 0.024s] 10472                                                                
+───────────────────────────────────────────────────────── C1 ──────────────────────────────────────────────────────────
+2023-06-12 23:58:08.942 | INFO | C1                                                                                    
+2023-06-12 23:58:08.943 | INFO | Expect emotion reduce: (8, 2)                                                         
+2023-06-12 23:58:08.960 | INFO | Bind task {'Alas', 'General', 'WarArchives'}                                          
+2023-06-12 23:58:08.962 | INFO | Save config ./config\alas.json, WarArchives.Emotion.Fleet1Value=119,                  
+WarArchives.Emotion.Fleet1Record=datetime.datetime(2023, 6, 12, 23, 58, 8), WarArchives.Emotion.Fleet2Value=119,       
+WarArchives.Emotion.Fleet2Record=datetime.datetime(2023, 6, 12, 23, 58, 8)                                             
+2023-06-12 23:58:08.974 | INFO | [Emotion fleet_1] 119                                                                 
+2023-06-12 23:58:08.976 | INFO | [Emotion fleet_2] 119                                                                 
+2023-06-12 23:58:08.976 | INFO | <<< ENTER MAP >>>                                                                     
+2023-06-12 23:58:09.011 | INFO | Click ( 333,  265) @ c1                                                               
+2023-06-12 23:58:09.426 | INFO | [Map_clear_percentage] 0.0                                                            
+2023-06-12 23:58:09.730 | INFO | [Map_clear_percentage] 0.0                                                            
+2023-06-12 23:58:10.032 | INFO | [Map_clear_percentage] 0.0                                                            
+2023-06-12 23:58:10.033 | INFO | [MAP_CLEAR_ALL_THIS_TIME] True                                                        
+2023-06-12 23:58:10.034 | INFO | [Map_info] 0%,                                                                        
+2023-06-12 23:58:10.035 | INFO | [StopCondition_MapAchievement] map_3_stars                                            
+2023-06-12 23:58:10.043 | INFO | No auto search option.                                                                
+2023-06-12 23:58:10.044 | INFO | Click ( 983,  523) @ MAP_PREPARATION                                                  
+2023-06-12 23:58:10.643 | INFO | Using fleet: [1, 2, 1]                                                                
+2023-06-12 23:58:10.657 | INFO | Hard satisfied: Fleet_1: True, Fleet_2: True, Submarine: True                         
+2023-06-12 23:58:10.660 | INFO | Hard Campaign. No fleet preparation                                                   
+2023-06-12 23:58:10.661 | INFO | Click (1069,  592) @ FLEET_PREPARATION                                                
+2023-06-12 23:58:15.456 | INFO | Enemy searching appeared.                                                             
+2023-06-12 23:58:15.531 | INFO | No fleet lock option.                                                                 
+2023-06-12 23:58:15.532 | INFO | <<< MAP INIT >>>                                                                      
+2023-06-12 23:58:15.533 | INFO | Load map_data, has_loop=False, use_loop=False                                         
+2023-06-12 23:58:15.534 | INFO | Load spawn_data, has_loop=False, use_loop=False                                       
+2023-06-12 23:58:15.535 | INFO | grid_connection: wall=False, portal=False                                             
+2023-06-12 23:58:15.536 | INFO | Load mechanism, land_base=False, maze=False, fortress=False, bouncing_enemy=False     
+2023-06-12 23:58:15.835 | WARNING | Image to detect is not in_map                                                      
+2023-06-12 23:58:15.845 | INFO | Click ( 918,  663) @ GAME_TIPS                                                        
+2023-06-12 23:58:15.897 | WARNING | Perspective error caused by story                                                  
+2023-06-12 23:58:15.898 | INFO | Ensure no story                                                                       
+2023-06-12 23:58:16.130 | INFO | Click ( 810,  513) @ POPUP_CONFIRM_STORY_SKIP                                         
+2023-06-12 23:58:19.733 | WARNING | Image to detect is not in_map                                                      
+2023-06-12 23:58:19.764 | WARNING | Image is in stage                                                                  
+2023-06-12 23:58:19.765 | ERROR | CampaignEnd: Image is in stage                                                       
+┌───────────────────────────────────────── Traceback (most recent call last) ─────────────────────────────────────────┐
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\camera.py:123 in _update                         │
+│                                                                                                                     │
+│   120 │   │   │   if not self.is_in_map() \                                                                         │
+│   121 │   │   │   │   │   and not self.is_in_strategy_submarine_move():                                             │
+│   122 │   │   │   │   logger.warning('Image to detect is not in_map')                                               │
+│ > 123 │   │   │   │   raise MapDetectionError('Image to detect is not in_map')                                      │
+│   124 │   │   │   self.view.load(self.device.image)                                                                 │
+│   125 │   │   except MapDetectionError as e:                                                                        │
+│   126 │   │   │   if self.info_bar_count():                                                                         │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────── locals ────────────────────────────────────────┐                           │
+│ │ camera = True                                                                         │                           │
+│ │   self = <campaign.war_archives_20220414_cn.c1.Campaign object at 0x000001FEC872C408> │                           │
+│ └───────────────────────────────────────────────────────────────────────────────────────┘                           │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+MapDetectionError: Image to detect is not in_map                                                                       
+                                                                                                                       
+During handling of the above exception, another exception occurred:                                                    
+                                                                                                                       
+┌───────────────────────────────────────── Traceback (most recent call last) ─────────────────────────────────────────┐
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\alas.py:68 in run                                           │
+│                                                                                                                     │
+│    65 │   def run(self, command):                                                                                   │
+│    66 │   │   try:                                                                                                  │
+│    67 │   │   │   self.device.screenshot()                                                                          │
+│ >  68 │   │   │   self.__getattribute__(command)()                                                                  │
+│    69 │   │   │   return True                                                                                       │
+│    70 │   │   except TaskEnd:                                                                                       │
+│    71 │   │   │   return True                                                                                       │
+│                                                                                                                     │
+│ ┌───────────────────────────── locals ─────────────────────────────┐                                                │
+│ │ command = 'war_archives'                                         │                                                │
+│ │       e = CampaignEnd('Image is in stage')                       │                                                │
+│ │    self = <alas.AzurLaneAutoScript object at 0x000001FEE81D23C8> │                                                │
+│ └──────────────────────────────────────────────────────────────────┘                                                │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\alas.py:250 in war_archives                                 │
+│                                                                                                                     │
+│   247 │   def war_archives(self):                                                                                   │
+│   248 │   │   from module.war_archives.war_archives import CampaignWarArchives                                      │
+│   249 │   │   CampaignWarArchives(config=self.config, device=self.device).run(                                      │
+│ > 250 │   │   │   name=self.config.Campaign_Name, folder=self.config.Campaign_Event,                                │
+│       mode=self.config.Campaign_Mode)                                                                               │
+│   251 │                                                                                                             │
+│   252 │   def raid_daily(self):                                                                                     │
+│   253 │   │   from module.raid.daily import RaidDaily                                                               │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────── locals ───────────────────────────────────────┐                            │
+│ │ CampaignWarArchives = <class 'module.war_archives.war_archives.CampaignWarArchives'> │                            │
+│ │                self = <alas.AzurLaneAutoScript object at 0x000001FEE81D23C8>         │                            │
+│ └──────────────────────────────────────────────────────────────────────────────────────┘                            │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\war_archives\war_archives.py:35 in run               │
+│                                                                                                                     │
+│   32 │                                                                                                              │
+│   33 │   def run(self, name=None, folder='campaign_main', mode='normal', total=0):                                  │
+│   34 │   │   backup = self.config.temporary(USE_DATA_KEY=True)                                                      │
+│ > 35 │   │   super().run(name, folder, mode, total)                                                                 │
+│   36 │   │   backup.recover()                                                                                       │
+│   37 │   │   self.ui_goto_main()  # Go to main, as remaining in page can throw off Event task                       │
+│   38                                                                                                                │
+│                                                                                                                     │
+│ ┌──────────────────────────────────────────── locals ─────────────────────────────────────────────┐                 │
+│ │ __class__ = <class 'module.war_archives.war_archives.CampaignWarArchives'>                      │                 │
+│ │    backup = <module.config.config.ConfigBackup object at 0x000001FEC8733208>                    │                 │
+│ │    folder = 'war_archives_20220414_cn'                                                          │                 │
+│ │      mode = 'normal'                                                                            │                 │
+│ │      name = 'C1'                                                                                │                 │
+│ │      self = <module.war_archives.war_archives.CampaignWarArchives object at 0x000001FEC83A9308> │                 │
+│ │     total = 0                                                                                   │                 │
+│ └─────────────────────────────────────────────────────────────────────────────────────────────────┘                 │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\campaign\run.py:336 in run                           │
+│                                                                                                                     │
+│   333 │   │   │                                                                                                     │
+│   334 │   │   │   # Run                                                                                             │
+│   335 │   │   │   try:                                                                                              │
+│ > 336 │   │   │   │   self.campaign.run()                                                                           │
+│   337 │   │   │   except ScriptEnd as e:                                                                            │
+│   338 │   │   │   │   logger.hr('Script end')                                                                       │
+│   339 │   │   │   │   logger.info(str(e))                                                                           │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────────── locals ───────────────────────────────────────────┐                    │
+│ │ folder = 'war_archives_20220414_cn'                                                          │                    │
+│ │   mode = 'normal'                                                                            │                    │
+│ │   name = 'c1'                                                                                │                    │
+│ │   self = <module.war_archives.war_archives.CampaignWarArchives object at 0x000001FEC83A9308> │                    │
+│ │  total = 0                                                                                   │                    │
+│ └──────────────────────────────────────────────────────────────────────────────────────────────┘                    │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\campaign\campaign_base.py:130 in run                 │
+│                                                                                                                     │
+│   127 │   │   # Map init                                                                                            │
+│   128 │   │   if not self.map_is_auto_search:                                                                       │
+│   129 │   │   │   self.handle_map_fleet_lock()                                                                      │
+│ > 130 │   │   │   self.map_init(self.MAP)                                                                           │
+│   131 │   │   else:                                                                                                 │
+│   132 │   │   │   self.map = self.MAP                                                                               │
+│   133 │   │   │   self.battle_count = 0                                                                             │
+│                                                                                                                     │
+│ ┌────────────────────────────────────── locals ───────────────────────────────────────┐                             │
+│ │ self = <campaign.war_archives_20220414_cn.c1.Campaign object at 0x000001FEC872C408> │                             │
+│ └─────────────────────────────────────────────────────────────────────────────────────┘                             │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\fleet.py:811 in map_init                         │
+│                                                                                                                     │
+│    808 │   │   """                                                                                                  │
+│    809 │   │   logger.hr('Map init')                                                                                │
+│    810 │   │   self.map_data_init(map_)                                                                             │
+│ >  811 │   │   self.map_control_init()                                                                              │
+│    812 │                                                                                                            │
+│    813 │   def map_data_init(self, map_):                                                                           │
+│    814 │   │   """                                                                                                  │
+│                                                                                                                     │
+│ ┌────────────────────────────────────── locals ───────────────────────────────────────┐                             │
+│ │ map_ = <module.map.map_base.CampaignMap object at 0x000001FEC8F13E08>               │                             │
+│ │ self = <campaign.war_archives_20220414_cn.c1.Campaign object at 0x000001FEC872C408> │                             │
+│ └─────────────────────────────────────────────────────────────────────────────────────┘                             │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\fleet.py:852 in map_control_init                 │
+│                                                                                                                     │
+│    849 │   │   Preparation before operations.                                                                       │
+│    850 │   │   Such as select strategy, calculate hp and level, init camera position, do first                      │
+│        map scan.                                                                                                    │
+│    851 │   │   """                                                                                                  │
+│ >  852 │   │   self.update()                                                                                        │
+│    853 │   │   if not self.handle_fleet_reverse():                                                                  │
+│    854 │   │   │   self.fleet_set(index=1)                                                                          │
+│    855 │   │   self.handle_strategy(index=self.fleet_show_index)                                                    │
+│                                                                                                                     │
+│ ┌────────────────────────────────────── locals ───────────────────────────────────────┐                             │
+│ │ self = <campaign.war_archives_20220414_cn.c1.Campaign object at 0x000001FEC872C408> │                             │
+│ └─────────────────────────────────────────────────────────────────────────────────────┘                             │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\camera.py:245 in update                          │
+│                                                                                                                     │
+│   242 │   │   confirm_timer = Timer(5, count=10).start()                                                            │
+│   243 │   │   while 1:                                                                                              │
+│   244 │   │   │   try:                                                                                              │
+│ > 245 │   │   │   │   success = self._update(camera=camera)                                                         │
+│   246 │   │   │   │   if success:                                                                                   │
+│   247 │   │   │   │   │   break                                                                                     │
+│   248 │   │   │   │   else:                                                                                         │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────────── locals ───────────────────────────────────────────┐                    │
+│ │   allow_error = False                                                                        │                    │
+│ │        camera = True                                                                         │                    │
+│ │ confirm_timer = Timer(limit=0.338/5, count=0/10)                                             │                    │
+│ │          self = <campaign.war_archives_20220414_cn.c1.Campaign object at 0x000001FEC872C408> │                    │
+│ │       success = False                                                                        │                    │
+│ └──────────────────────────────────────────────────────────────────────────────────────────────┘                    │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\camera.py:144 in _update                         │
+│                                                                                                                     │
+│   141 │   │   │   │   return False                                                                                  │
+│   142 │   │   │   elif self.is_in_stage():                                                                          │
+│   143 │   │   │   │   logger.warning('Image is in stage')                                                           │
+│ > 144 │   │   │   │   raise CampaignEnd('Image is in stage')                                                        │
+│   145 │   │   │   elif self.appear(MAP_PREPARATION, offset=(20, 20)):                                               │
+│   146 │   │   │   │   logger.warning('Image is in MAP_PREPARATION')                                                 │
+│   147 │   │   │   │   self.enter_map_cancel()                                                                       │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────── locals ────────────────────────────────────────┐                           │
+│ │ camera = True                                                                         │                           │
+│ │   self = <campaign.war_archives_20220414_cn.c1.Campaign object at 0x000001FEC872C408> │                           │
+│ └───────────────────────────────────────────────────────────────────────────────────────┘                           │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+CampaignEnd: Image is in stage                                                                                         
+2023-06-12 23:58:20.143 | WARNING | Saving error: ./log/error/1686585500143                                            
