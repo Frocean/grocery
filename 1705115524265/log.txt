@@ -1,0 +1,546 @@
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                      WARARCHIVES                                                      
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════ C1 ══════════════════════════════════════════════════════════
+2024-01-13 11:11:47.842 | INFO | C1                                                                                    
+2024-01-13 11:11:47.843 | INFO | Count: 0                                                                              
+2024-01-13 11:11:47.850 | INFO | <<< UI ENSURE >>>                                                                     
+2024-01-13 11:11:47.851 | INFO | UI get current page                                                                   
+2024-01-13 11:11:47.857 | INFO | [UI] page_os                                                                          
+2024-01-13 11:11:47.858 | INFO | Goto page_archives                                                                    
+2024-01-13 11:11:47.859 | INFO | <<< UI GOTO PAGE_ARCHIVES >>>                                                         
+2024-01-13 11:11:47.865 | INFO | Page switch: page_os -> page_main                                                     
+2024-01-13 11:11:47.866 | INFO | Click (1252,   34) @ GOTO_MAIN                                                        
+2024-01-13 11:11:49.034 | INFO | Page switch: page_main -> page_campaign_menu                                          
+2024-01-13 11:11:49.035 | INFO | Click (1061,  326) @ MAIN_GOTO_CAMPAIGN                                               
+2024-01-13 11:11:49.633 | INFO | Page switch: page_campaign_menu -> page_archives                                      
+2024-01-13 11:11:49.635 | INFO | Click ( 245,  610) @ CAMPAIGN_MENU_GOTO_WAR_ARCHIVES                                  
+2024-01-13 11:11:50.228 | INFO | Page arrive: page_archives                                                            
+2024-01-13 11:11:50.229 | INFO | [War_Archives_switch] ex                                                              
+2024-01-13 11:11:50.335 | INFO | [WAR_ARCHIVES_SCROLL] 0.00 (75.0-75.5)/(565-151)                                      
+2024-01-13 11:11:50.336 | INFO | [WAR_ARCHIVES_SCROLL] 0.00 (75.0-75.5)/(565-151)                                      
+2024-01-13 11:11:50.337 | INFO | WAR_ARCHIVES_SCROLL set to 0.292                                                      
+2024-01-13 11:11:50.338 | INFO | [WAR_ARCHIVES_SCROLL] 0.00 (75.0-75.5)/(565-151)                                      
+2024-01-13 11:11:50.339 | INFO | Swipe (1259,  204) -> (1254,  325)                                                    
+2024-01-13 11:11:50.630 | INFO | [WAR_ARCHIVES_SCROLL] 0.35 (215.6605504587156-54.5)/(565-109)                         
+2024-01-13 11:11:50.927 | INFO | [WAR_ARCHIVES_SCROLL] 0.31 (202.5-76.0)/(565-152)                                     
+2024-01-13 11:11:51.689 | INFO | <<< UI CLICK >>>                                                                      
+2024-01-13 11:11:51.695 | INFO | Click ( 371,  516) @ war_archives_20181227_cn                                         
+2024-01-13 11:11:52.139 | INFO | [Mode_switch_1] normal                                                                
+2024-01-13 11:11:52.141 | INFO | <<< UI ENSURE INDEX >>>                                                               
+2024-01-13 11:11:52.166 | INFO | No stage found.                                                                       
+2024-01-13 11:11:52.462 | INFO | No stage found.                                                                       
+2024-01-13 11:11:52.765 | INFO | [campaign 0.013s]                                                                     
+2024-01-13 11:11:53.056 | INFO | [campaign 0.016s] ['C1', 'C2']                                                        
+2024-01-13 11:11:53.057 | INFO | [Chapter] c                                                                           
+2024-01-13 11:11:53.058 | INFO | [Stage] c1, c2                                                                        
+2024-01-13 11:11:53.059 | INFO | [Index] 1                                                                             
+2024-01-13 11:11:53.086 | INFO | [OCR_DATA_KEY_CAMPAIGN 0.020s] 3/60                                                   
+2024-01-13 11:11:53.088 | INFO | Inventory: 3 / 60, Remain: 3                                                          
+2024-01-13 11:11:53.114 | INFO | [OCR_OIL 0.021s] 6041                                                                 
+───────────────────────────────────────────────────────── C1 ──────────────────────────────────────────────────────────
+2024-01-13 11:11:53.116 | INFO | C1                                                                                    
+2024-01-13 11:11:53.117 | INFO | Expect emotion reduce: (2, 8)                                                         
+2024-01-13 11:11:53.129 | INFO | Bind task ['General', 'Alas', 'WarArchives']                                          
+2024-01-13 11:11:53.130 | INFO | Save config ./config\alas.json, WarArchives.Emotion.Fleet1Value=119,                  
+WarArchives.Emotion.Fleet1Record=datetime.datetime(2024, 1, 13, 11, 11, 53), WarArchives.Emotion.Fleet2Value=119,      
+WarArchives.Emotion.Fleet2Record=datetime.datetime(2024, 1, 13, 11, 11, 53)                                            
+2024-01-13 11:11:53.141 | INFO | [Emotion fleet_1] 119                                                                 
+2024-01-13 11:11:53.142 | INFO | [Emotion fleet_2] 119                                                                 
+2024-01-13 11:11:53.143 | INFO | <<< ENTER MAP >>>                                                                     
+2024-01-13 11:11:53.171 | INFO | Click ( 327,  263) @ c1                                                               
+2024-01-13 11:11:53.617 | INFO | [Map_clear_percentage] 0.2558139534883721                                             
+2024-01-13 11:11:53.921 | INFO | [Map_clear_percentage] 0.8604651162790697                                             
+2024-01-13 11:11:54.225 | INFO | [Map_clear_percentage] 0.997093023255814                                              
+2024-01-13 11:11:54.226 | INFO | [MAP_CLEAR_ALL_THIS_TIME] True                                                        
+2024-01-13 11:11:54.227 | INFO | [Map_info] 99%, star_1, star_2, 100_percent_clear, threat_safe, clear_mode            
+2024-01-13 11:11:54.228 | INFO | [StopCondition_MapAchievement] map_3_stars                                            
+2024-01-13 11:11:54.229 | INFO | MAP_CLEAR_ALL_THIS_TIME does not work with auto search, disable auto search           
+temporarily                                                                                                            
+2024-01-13 11:11:54.230 | INFO | [Fast_Forward] on                                                                     
+2024-01-13 11:11:54.237 | INFO | [Auto_Search] off                                                                     
+2024-01-13 11:11:54.238 | INFO | Click ( 956,  508) @ MAP_PREPARATION                                                  
+2024-01-13 11:11:54.818 | INFO | Handling 2x book setting, mode=prep.                                                  
+2024-01-13 11:11:54.825 | INFO | Using fleet: [1, 2, 1]                                                                
+2024-01-13 11:11:54.850 | INFO | Hard satisfied: Fleet_1: True, Fleet_2: True, Submarine: True                         
+2024-01-13 11:11:54.852 | INFO | Hard Campaign. No fleet preparation                                                   
+2024-01-13 11:11:54.853 | INFO | Click (1019,  580) @ FLEET_PREPARATION                                                
+2024-01-13 11:11:58.456 | INFO | Enemy searching appeared.                                                             
+2024-01-13 11:11:58.535 | INFO | [Fleet_Lock] on                                                                       
+2024-01-13 11:11:58.537 | INFO | <<< MAP INIT >>>                                                                      
+2024-01-13 11:11:58.538 | INFO | Load map_data, has_loop=False, use_loop=True                                          
+2024-01-13 11:11:58.539 | INFO | Load spawn_data, has_loop=False, use_loop=True                                        
+2024-01-13 11:11:58.540 | INFO | grid_connection: wall=False, portal=False                                             
+2024-01-13 11:11:58.542 | INFO | Load mechanism, land_base=False, maze=False, fortress=False, bouncing_enemy=False     
+2024-01-13 11:11:58.907 | INFO |           vanish_point: (  638, -2952)                                                
+2024-01-13 11:11:58.908 | INFO |          distant_point: (-1584, -2952)                                                
+2024-01-13 11:11:58.931 | INFO | 0.096s      Horizontal: 4 (8 inner, 2 edge)                                           
+2024-01-13 11:11:58.933 | INFO | Edges: /      Vertical: 9 (9 inner, 2 edge)                                           
+2024-01-13 11:11:58.934 | INFO | [homo_storage] ((8, 3), [(301.982, 58.069), (1241.975, 58.069), (240.028, 612.469),   
+(1353.144, 612.469)])                                                                                                  
+2024-01-13 11:11:58.956 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:11:59.015 | INFO |            tile_corner: 0.786 (bad match)                                             
+2024-01-13 11:11:59.044 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:11:59.078 | INFO | [u2.Device] Device(atx_agent_url=http://127.0.0.1:52598)                              
+2024-01-13 11:11:59.089 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:11:59.174 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:11:59.228 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:11:59.249 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:11:59.271 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:11:59.474 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:11:59.541 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:11:59.569 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:11:59.588 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:11:59.778 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:11:59.844 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:11:59.866 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:11:59.884 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:00.088 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:00.143 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:00.164 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:00.185 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:00.391 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:00.446 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:00.467 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:00.521 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:00.680 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:00.729 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:00.750 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:00.770 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:00.977 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:01.035 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:01.058 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:01.099 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:01.283 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:01.335 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:01.355 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:01.375 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:01.574 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:01.625 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:01.647 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:01.668 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:01.883 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:01.939 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:01.962 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:01.981 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:02.190 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:02.247 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:02.273 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:02.297 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:02.491 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:02.548 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:02.569 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:02.590 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:02.790 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:02.843 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:02.864 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:02.883 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:03.104 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:03.167 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:03.190 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:03.213 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:03.390 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:03.444 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:03.466 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:03.487 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:03.691 | INFO |            tile_center: 0.636 (bad match)                                             
+2024-01-13 11:12:03.742 | INFO |            tile_corner: 0.760 (bad match)                                             
+2024-01-13 11:12:03.762 | INFO |         tile_rectangle: 0 rectangles (bad match)                                      
+2024-01-13 11:12:03.781 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-01-13 11:12:03.782 | ERROR | MapDetectionError: Failed to find a free tile                                        
+┌───────────────────────────────────────── Traceback (most recent call last) ─────────────────────────────────────────┐
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\alas.py:68 in run                                           │
+│                                                                                                                     │
+│    65 │   def run(self, command):                                                                                   │
+│    66 │   │   try:                                                                                                  │
+│    67 │   │   │   self.device.screenshot()                                                                          │
+│ >  68 │   │   │   self.__getattribute__(command)()                                                                  │
+│    69 │   │   │   return True                                                                                       │
+│    70 │   │   except TaskEnd:                                                                                       │
+│    71 │   │   │   return True                                                                                       │
+│                                                                                                                     │
+│ ┌───────────────────────────── locals ─────────────────────────────┐                                                │
+│ │ command = 'war_archives'                                         │                                                │
+│ │       e = MapDetectionError('Failed to find a free tile')        │                                                │
+│ │    self = <alas.AzurLaneAutoScript object at 0x000001C6B71F2748> │                                                │
+│ └──────────────────────────────────────────────────────────────────┘                                                │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\alas.py:254 in war_archives                                 │
+│                                                                                                                     │
+│   251 │   def war_archives(self):                                                                                   │
+│   252 │   │   from module.war_archives.war_archives import CampaignWarArchives                                      │
+│   253 │   │   CampaignWarArchives(config=self.config, device=self.device).run(                                      │
+│ > 254 │   │   │   name=self.config.Campaign_Name, folder=self.config.Campaign_Event,                                │
+│       mode=self.config.Campaign_Mode)                                                                               │
+│   255 │                                                                                                             │
+│   256 │   def raid_daily(self):                                                                                     │
+│   257 │   │   from module.raid.daily import RaidDaily                                                               │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────── locals ───────────────────────────────────────┐                            │
+│ │ CampaignWarArchives = <class 'module.war_archives.war_archives.CampaignWarArchives'> │                            │
+│ │                self = <alas.AzurLaneAutoScript object at 0x000001C6B71F2748>         │                            │
+│ └──────────────────────────────────────────────────────────────────────────────────────┘                            │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\war_archives\war_archives.py:35 in run               │
+│                                                                                                                     │
+│   32 │                                                                                                              │
+│   33 │   def run(self, name=None, folder='campaign_main', mode='normal', total=0):                                  │
+│   34 │   │   backup = self.config.temporary(USE_DATA_KEY=True)                                                      │
+│ > 35 │   │   super().run(name, folder, mode, total)                                                                 │
+│   36 │   │   backup.recover()                                                                                       │
+│   37 │   │   self.ui_goto_main()  # Go to main, as remaining in page can throw off Event task                       │
+│   38                                                                                                                │
+│                                                                                                                     │
+│ ┌──────────────────────────────────────────── locals ─────────────────────────────────────────────┐                 │
+│ │ __class__ = <class 'module.war_archives.war_archives.CampaignWarArchives'>                      │                 │
+│ │    backup = <module.config.config.ConfigBackup object at 0x000001C699173D08>                    │                 │
+│ │    folder = 'war_archives_20181227_cn'                                                          │                 │
+│ │      mode = 'normal'                                                                            │                 │
+│ │      name = 'C1'                                                                                │                 │
+│ │      self = <module.war_archives.war_archives.CampaignWarArchives object at 0x000001C6994E6188> │                 │
+│ │     total = 0                                                                                   │                 │
+│ └─────────────────────────────────────────────────────────────────────────────────────────────────┘                 │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\campaign\run.py:380 in run                           │
+│                                                                                                                     │
+│   377 │   │   │   self.device.stuck_record_clear()                                                                  │
+│   378 │   │   │   self.device.click_record_clear()                                                                  │
+│   379 │   │   │   try:                                                                                              │
+│ > 380 │   │   │   │   self.campaign.run()                                                                           │
+│   381 │   │   │   except ScriptEnd as e:                                                                            │
+│   382 │   │   │   │   logger.hr('Script end')                                                                       │
+│   383 │   │   │   │   logger.info(str(e))                                                                           │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────────── locals ───────────────────────────────────────────┐                    │
+│ │ folder = 'war_archives_20181227_cn'                                                          │                    │
+│ │   mode = 'normal'                                                                            │                    │
+│ │   name = 'c1'                                                                                │                    │
+│ │   self = <module.war_archives.war_archives.CampaignWarArchives object at 0x000001C6994E6188> │                    │
+│ │  total = 0                                                                                   │                    │
+│ └──────────────────────────────────────────────────────────────────────────────────────────────┘                    │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\campaign\campaign_base.py:130 in run                 │
+│                                                                                                                     │
+│   127 │   │   # Map init                                                                                            │
+│   128 │   │   if not self.map_is_auto_search:                                                                       │
+│   129 │   │   │   self.handle_map_fleet_lock()                                                                      │
+│ > 130 │   │   │   self.map_init(self.MAP)                                                                           │
+│   131 │   │   else:                                                                                                 │
+│   132 │   │   │   self.map = self.MAP                                                                               │
+│   133 │   │   │   self.battle_count = 0                                                                             │
+│                                                                                                                     │
+│ ┌────────────────────────────────────── locals ───────────────────────────────────────┐                             │
+│ │ self = <campaign.war_archives_20181227_cn.c1.Campaign object at 0x000001C699951908> │                             │
+│ └─────────────────────────────────────────────────────────────────────────────────────┘                             │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\fleet.py:836 in map_init                         │
+│                                                                                                                     │
+│    833 │   │   """                                                                                                  │
+│    834 │   │   logger.hr('Map init')                                                                                │
+│    835 │   │   self.map_data_init(map_)                                                                             │
+│ >  836 │   │   self.map_control_init()                                                                              │
+│    837 │                                                                                                            │
+│    838 │   def map_data_init(self, map_):                                                                           │
+│    839 │   │   """                                                                                                  │
+│                                                                                                                     │
+│ ┌────────────────────────────────────── locals ───────────────────────────────────────┐                             │
+│ │ map_ = <module.map.map_base.CampaignMap object at 0x000001C699C53508>               │                             │
+│ │ self = <campaign.war_archives_20181227_cn.c1.Campaign object at 0x000001C699951908> │                             │
+│ └─────────────────────────────────────────────────────────────────────────────────────┘                             │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\fleet.py:877 in map_control_init                 │
+│                                                                                                                     │
+│    874 │   │   Preparation before operations.                                                                       │
+│    875 │   │   Such as select strategy, calculate hp and level, init camera position, do first                      │
+│        map scan.                                                                                                    │
+│    876 │   │   """                                                                                                  │
+│ >  877 │   │   self.update()                                                                                        │
+│    878 │   │   if not self.handle_fleet_reverse():                                                                  │
+│    879 │   │   │   self.fleet_set(index=1)                                                                          │
+│    880 │   │   self.handle_strategy(index=self.fleet_show_index)                                                    │
+│                                                                                                                     │
+│ ┌────────────────────────────────────── locals ───────────────────────────────────────┐                             │
+│ │ self = <campaign.war_archives_20181227_cn.c1.Campaign object at 0x000001C699951908> │                             │
+│ └─────────────────────────────────────────────────────────────────────────────────────┘                             │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\camera.py:265 in update                          │
+│                                                                                                                     │
+│   262 │   │   confirm_timer = Timer(5, count=10).start()                                                            │
+│   263 │   │   while 1:                                                                                              │
+│   264 │   │   │   try:                                                                                              │
+│ > 265 │   │   │   │   success = self._update(camera=camera)                                                         │
+│   266 │   │   │   │   if success:                                                                                   │
+│   267 │   │   │   │   │   break                                                                                     │
+│   268 │   │   │   │   else:                                                                                         │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────────── locals ───────────────────────────────────────────┐                    │
+│ │   allow_error = False                                                                        │                    │
+│ │        camera = True                                                                         │                    │
+│ │ confirm_timer = Timer(limit=5.246/5, count=17/10)                                            │                    │
+│ │          self = <campaign.war_archives_20181227_cn.c1.Campaign object at 0x000001C699951908> │                    │
+│ └──────────────────────────────────────────────────────────────────────────────────────────────┘                    │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\camera.py:214 in _update                         │
+│                                                                                                                     │
+│   211 │   │   │   │   logger.error('Trying to update camera but game died')                                         │
+│   212 │   │   │   │   raise GameNotRunningError                                                                     │
+│   213 │   │   │   else:                                                                                             │
+│ > 214 │   │   │   │   raise e                                                                                       │
+│   215 │   │                                                                                                         │
+│   216 │   │   if self._prev_view is not None and np.linalg.norm(self._prev_swipe) > 0:                              │
+│   217 │   │   │   if self.config.MAP_SWIPE_PREDICT:                                                                 │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────── locals ────────────────────────────────────────┐                           │
+│ │ camera = True                                                                         │                           │
+│ │   self = <campaign.war_archives_20181227_cn.c1.Campaign object at 0x000001C699951908> │                           │
+│ └───────────────────────────────────────────────────────────────────────────────────────┘                           │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map\camera.py:125 in _update                         │
+│                                                                                                                     │
+│   122 │   │   │   │   │   and not self.is_in_strategy_submarine_move():                                             │
+│   123 │   │   │   │   logger.warning('Image to detect is not in_map')                                               │
+│   124 │   │   │   │   raise MapDetectionError('Image to detect is not in_map')                                      │
+│ > 125 │   │   │   self.view.load(self.device.image)                                                                 │
+│   126 │   │   except MapDetectionError as e:                                                                        │
+│   127 │   │   │   if self.info_bar_count():                                                                         │
+│   128 │   │   │   │   logger.warning('Perspective error caused by info bar')                                        │
+│                                                                                                                     │
+│ ┌─────────────────────────────────────── locals ────────────────────────────────────────┐                           │
+│ │ camera = True                                                                         │                           │
+│ │   self = <campaign.war_archives_20181227_cn.c1.Campaign object at 0x000001C699951908> │                           │
+│ └───────────────────────────────────────────────────────────────────────────────────────┘                           │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map_detection\view.py:59 in load                     │
+│                                                                                                                     │
+│    56 │   │   """                                                                                                   │
+│    57 │   │   image = self._image_clear_ui(np.array(image))                                                         │
+│    58 │   │   self.image = image                                                                                    │
+│ >  59 │   │   super().load(image)                                                                                   │
+│    60 │   │                                                                                                         │
+│    61 │   │   # Create local view map                                                                               │
+│    62 │   │   grids = {}                                                                                            │
+│                                                                                                                     │
+│ ┌───────────────────────────────── locals ──────────────────────────────────┐                                       │
+│ │ __class__ = <class 'module.map_detection.view.View'>                      │                                       │
+│ │     image = array([[[0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   ...,                                                  │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0]],                                           │                                       │
+│ │             │                                                             │                                       │
+│ │             │      [[0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   ...,                                                  │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0]],                                           │                                       │
+│ │             │                                                             │                                       │
+│ │             │      [[0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   ...,                                                  │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0]],                                           │                                       │
+│ │             │                                                             │                                       │
+│ │             │      ...,                                                   │                                       │
+│ │             │                                                             │                                       │
+│ │             │      [[0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   ...,                                                  │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0]],                                           │                                       │
+│ │             │                                                             │                                       │
+│ │             │      [[0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   ...,                                                  │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0]],                                           │                                       │
+│ │             │                                                             │                                       │
+│ │             │      [[0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   ...,                                                  │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0],                                            │                                       │
+│ │             │   │   [0, 0, 0]]], dtype=uint8)                             │                                       │
+│ │      self = <module.map_detection.view.View object at 0x000001C699BD6848> │                                       │
+│ └───────────────────────────────────────────────────────────────────────────┘                                       │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map_detection\detector.py:49 in load                 │
+│                                                                                                                     │
+│   46 │   │   Args:                                                                                                  │
+│   47 │   │   │   image: Shape (720, 1280, 3)                                                                        │
+│   48 │   │   """                                                                                                    │
+│ > 49 │   │   self.backend.load(image)                                                                               │
+│   50 │   │                                                                                                          │
+│   51 │   │   self.left_edge = bool(self.backend.left_edge)                                                          │
+│   52 │   │   self.right_edge = bool(self.backend.right_edge)                                                        │
+│                                                                                                                     │
+│ ┌─────────────────────────────── locals ────────────────────────────────┐                                           │
+│ │ image = array([[[0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   ...,                                                  │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0]],                                           │                                           │
+│ │         │                                                             │                                           │
+│ │         │      [[0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   ...,                                                  │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0]],                                           │                                           │
+│ │         │                                                             │                                           │
+│ │         │      [[0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   ...,                                                  │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0]],                                           │                                           │
+│ │         │                                                             │                                           │
+│ │         │      ...,                                                   │                                           │
+│ │         │                                                             │                                           │
+│ │         │      [[0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   ...,                                                  │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0]],                                           │                                           │
+│ │         │                                                             │                                           │
+│ │         │      [[0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   ...,                                                  │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0]],                                           │                                           │
+│ │         │                                                             │                                           │
+│ │         │      [[0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   ...,                                                  │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0],                                            │                                           │
+│ │         │   │   [0, 0, 0]]], dtype=uint8)                             │                                           │
+│ │  self = <module.map_detection.view.View object at 0x000001C699BD6848> │                                           │
+│ └───────────────────────────────────────────────────────────────────────┘                                           │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map_detection\homography.py:92 in load               │
+│                                                                                                                     │
+│    89 │   │   if not self.homo_loaded:                                                                              │
+│    90 │   │   │   self.load_homography(storage=self.config.HOMO_STORAGE, image=image)                               │
+│    91 │   │                                                                                                         │
+│ >  92 │   │   self.detect(image)                                                                                    │
+│    93 │                                                                                                             │
+│    94 │   def load_homography(self, storage=None, perspective=None, image=None, file=None):                         │
+│    95 │   │   """                                                                                                   │
+│                                                                                                                     │
+│ ┌───────────────────────────────────── locals ──────────────────────────────────────┐                               │
+│ │ image = array([[[0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   ...,                                                              │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0]],                                                       │                               │
+│ │         │                                                                         │                               │
+│ │         │      [[0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   ...,                                                              │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0]],                                                       │                               │
+│ │         │                                                                         │                               │
+│ │         │      [[0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   ...,                                                              │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0]],                                                       │                               │
+│ │         │                                                                         │                               │
+│ │         │      ...,                                                               │                               │
+│ │         │                                                                         │                               │
+│ │         │      [[0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   ...,                                                              │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0]],                                                       │                               │
+│ │         │                                                                         │                               │
+│ │         │      [[0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   ...,                                                              │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0]],                                                       │                               │
+│ │         │                                                                         │                               │
+│ │         │      [[0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   ...,                                                              │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0],                                                        │                               │
+│ │         │   │   [0, 0, 0]]], dtype=uint8)                                         │                               │
+│ │  self = <module.map_detection.homography.Homography object at 0x000001C69994BD48> │                               │
+│ └───────────────────────────────────────────────────────────────────────────────────┘                               │
+│                                                                                                                     │
+│ C:\Users\Frocean\Desktop\Application\AzurLaneAutoScript\module\map_detection\homography.py:189 in detect            │
+│                                                                                                                     │
+│   186 │   │   elif self.search_tile_rectangle(image_edge,                                                           │
+│       threshold=self.config.HOMO_RECTANGLE_THRESHOLD):                                                              │
+│   187 │   │   │   pass                                                                                              │
+│   188 │   │   else:                                                                                                 │
+│ > 189 │   │   │   raise MapDetectionError('Failed to find a free tile')                                             │
+│   190 │   │                                                                                                         │
+│   191 │   │   self.homo_loca %= self.config.HOMO_TILE                                                               │
+│   192                                                                                                               │
+│                                                                                                                     │
+│ ┌──────────────────────────────────────── locals ─────────────────────────────────────────┐                         │
+│ │       image = array([[95, 91, 91, ..., 57, 57, 57],                                     │                         │
+│ │               │      [95, 91, 91, ..., 57, 57, 57],                                     │                         │
+│ │               │      [91, 91, 91, ..., 57, 57, 57],                                     │                         │
+│ │               │      ...,                                                               │                         │
+│ │               │      [57, 57, 57, ...,  0,  0,  0],                                     │                         │
+│ │               │      [57, 57, 57, ...,  0,  0,  0],                                     │                         │
+│ │               │      [57, 57, 57, ...,  0,  0,  0]], dtype=uint8)                       │                         │
+│ │  image_edge = array([[0, 0, 0, ..., 0, 0, 0],                                           │                         │
+│ │               │      [0, 0, 0, ..., 0, 0, 0],                                           │                         │
+│ │               │      [0, 0, 0, ..., 0, 0, 0],                                           │                         │
+│ │               │      ...,                                                               │                         │
+│ │               │      [0, 0, 0, ..., 0, 0, 0],                                           │                         │
+│ │               │      [0, 0, 0, ..., 0, 0, 0],                                           │                         │
+│ │               │      [0, 0, 0, ..., 0, 0, 0]], dtype=uint8)                             │                         │
+│ │ image_trans = array([[95, 92, 91, ..., 57, 57, 46],                                     │                         │
+│ │               │      [77, 92, 91, ..., 57, 57, 32],                                     │                         │
+│ │               │      [57, 91, 91, ..., 57, 57, 20],                                     │                         │
+│ │               │      ...,                                                               │                         │
+│ │               │      [ 0,  0,  0, ...,  0,  0,  0],                                     │                         │
+│ │               │      [ 0,  0,  0, ...,  0,  0,  0],                                     │                         │
+│ │               │      [ 0,  0,  0, ...,  0,  0,  0]], dtype=uint8)                       │                         │
+│ │      kernel = array([[0, 0, 1, 0, 0],                                                   │                         │
+│ │               │      [1, 1, 1, 1, 1],                                                   │                         │
+│ │               │      [1, 1, 1, 1, 1],                                                   │                         │
+│ │               │      [1, 1, 1, 1, 1],                                                   │                         │
+│ │               │      [0, 0, 1, 0, 0]], dtype=uint8)                                     │                         │
+│ │        self = <module.map_detection.homography.Homography object at 0x000001C69994BD48> │                         │
+│ │  start_time = 1705115523.671127                                                         │                         │
+│ └─────────────────────────────────────────────────────────────────────────────────────────┘                         │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+MapDetectionError: Failed to find a free tile                                                                          
+2024-01-13 11:12:04.265 | WARNING | Saving error: ./log/error/1705115524265                                            
