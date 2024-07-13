@@ -1,0 +1,102 @@
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                  OPSIHAZARD1LEVELING                                                  
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+2024-07-13 23:37:43.641 | INFO | [nemud.app_keep_alive]                                                                
+2024-07-13 23:37:43.642 | INFO | Reuse forward: ForwardItem(serial='emulator-5554', local='tcp:20242',                 
+remote='tcp:53516')                                                                                                    
+2024-07-13 23:37:43.728 | INFO | [Screen_size] 1280x720                                                                
+2024-07-13 23:37:44.170 | INFO | early_ocr_import call                                                                 
+═══════════════════════════════════════════════════════ OS INIT ═══════════════════════════════════════════════════════
+2024-07-13 23:37:44.172 | INFO | early_ocr_import start                                                                
+2024-07-13 23:37:44.172 | INFO | OS INIT                                                                               
+2024-07-13 23:37:44.174 | INFO | Loading OCR dependencies                                                              
+2024-07-13 23:37:44.224 | INFO | <<< UI CLICK >>>                                                                      
+2024-07-13 23:37:44.227 | INFO | Click (  69,   49) @ GLOBE_GOTO_MAP                                                   
+2024-07-13 23:37:44.983 | INFO | early_ocr_import finish                                                               
+2024-07-13 23:37:44.985 | INFO | <<< ZONE INIT >>>                                                                     
+2024-07-13 23:37:45.285 | INFO | Get zone name                                                                         
+2024-07-13 23:37:45.337 | INFO | Loading OCR model: ./bin/cnocr_models/cnocr                                           
+2024-07-13 23:37:45.419 | INFO | [MAP_NAME 0.093s] NA海域西南B-安全海域                                                
+2024-07-13 23:37:45.422 | INFO | Map name processed: NA海域西南B                                                       
+2024-07-13 23:37:45.424 | INFO | [Zone] [22|NA Ocean SW Sector B]                                                      
+────────────────────────────────────────────────── AFTER AUTO SEARCH ──────────────────────────────────────────────────
+2024-07-13 23:37:45.426 | INFO | AFTER AUTO SEARCH                                                                     
+2024-07-13 23:37:45.438 | INFO | No EMP debuff on current fleet                                                        
+2024-07-13 23:37:45.445 | INFO | [HP]  98%  98%  98%  98%  98%  98%                                                    
+2024-07-13 23:37:45.449 | INFO | [Repair icon] [False, False, False, False, False, False]                              
+2024-07-13 23:37:45.451 | INFO | No ship found to be below threshold 40%, continue OS exploration                      
+2024-07-13 23:37:45.452 | INFO | Handle after auto search finished, solved=False                                       
+2024-07-13 23:37:45.453 | INFO | Current fleet is not afflicted with the low resolve debuff                            
+2024-07-13 23:37:45.455 | INFO | In zone 22, 44, 154, skip running first auto search                                   
+2024-07-13 23:37:45.456 | INFO | Ash beacon status: gray                                                               
+2024-07-13 23:37:45.471 | INFO | Loading OCR model: ./bin/cnocr_models/azur_lane                                       
+2024-07-13 23:37:45.528 | INFO | [ASH_COLLECT_STATUS 0.070s] 40/200                                                    
+2024-07-13 23:37:45.552 | INFO | [ASH_DAILY_STATUS 0.021s] 200/200                                                     
+2024-07-13 23:37:45.554 | INFO | Ash beacon fully collected today                                                      
+════════════════════════════════════════════════ OS HAZARD 1 LEVELING ═════════════════════════════════════════════════
+2024-07-13 23:37:45.555 | INFO | OS HAZARD 1 LEVELING                                                                  
+2024-07-13 23:37:45.556 | INFO | [OS_ACTION_POINT_PRESERVE] 200                                                        
+2024-07-13 23:37:45.585 | INFO | [SHOP_YELLOW_COINS 0.028s] 212266                                                     
+2024-07-13 23:37:45.630 | INFO | [MAP_NAME 0.043s] NA海域西南B-安全海域                                                
+2024-07-13 23:37:45.631 | INFO | Map name processed: NA海域西南B                                                       
+2024-07-13 23:37:45.633 | INFO | [Zone] [22|NA Ocean SW Sector B]                                                      
+2024-07-13 23:37:45.641 | INFO | Click ( 896,   30) @ ACTION_POINT_REMAIN_OS                                           
+2024-07-13 23:37:46.136 | INFO | [Amount_ocr 0.063s] [5317, 54, 19, 3]                                                 
+2024-07-13 23:37:46.164 | INFO | [ACTION_POINT_REMAIN 0.027s] 130                                                      
+2024-07-13 23:37:46.166 | INFO | Action points: 130(2460), oil: 5317                                                   
+2024-07-13 23:37:46.167 | INFO | Having enough action points                                                           
+2024-07-13 23:37:46.168 | INFO | <<< UI CLICK >>>                                                                      
+2024-07-13 23:37:46.174 | INFO | Click ( 433,  558) @ ACTION_POINT_CANCEL                                              
+══════════════════════════════════════════ OS HAZARD 1 LEVELING, ZONE_ID=22 ═══════════════════════════════════════════
+2024-07-13 23:37:46.689 | INFO | OS HAZARD 1 LEVELING, ZONE_ID=22                                                      
+2024-07-13 23:37:46.690 | INFO | <<< FLEET SET TO 4 >>>                                                                
+2024-07-13 23:37:46.708 | INFO | It is fleet 4 already                                                                 
+───────────────────────────────────────────────── RUN STRATEGY SEARCH ─────────────────────────────────────────────────
+2024-07-13 23:37:46.709 | INFO | RUN STRATEGY SEARCH                                                                   
+2024-07-13 23:37:46.710 | INFO | <<< STRATEGIC SEARCH START >>>                                                        
+2024-07-13 23:37:46.711 | INFO | Strategic search enter                                                                
+2024-07-13 23:37:46.725 | INFO | Click (1222,  592) @ STRATEGIC_SEARCH_MAP_OPTION_OFF                                  
+2024-07-13 23:37:47.287 | INFO | Strategic search set tab                                                              
+2024-07-13 23:37:47.288 | INFO | Strategic search set option                                                           
+2024-07-13 23:37:47.289 | INFO | [zone_mode] repeat                                                                    
+2024-07-13 23:37:47.290 | INFO | [encounter_merchant] stop                                                             
+2024-07-13 23:37:47.291 | INFO | STRATEGIC_SEARCH_SCROLL_AREA set to 0.5                                               
+2024-07-13 23:37:47.292 | INFO | [STRATEGIC_SEARCH_SCROLL_AREA] 0.00 (34.5-35.0)/(193-70)                              
+2024-07-13 23:37:47.292 | INFO | Swipe ( 909,  305) -> ( 903,  371)                                                    
+2024-07-13 23:37:47.592 | INFO | [STRATEGIC_SEARCH_SCROLL_AREA] 0.00 (nan-0.0)/(193-0)                                 
+2024-07-13 23:37:47.904 | INFO | [STRATEGIC_SEARCH_SCROLL_AREA] 0.53 (100.5-35.0)/(193-70)                             
+2024-07-13 23:37:47.912 | INFO | [encounter_device] stop                                                               
+2024-07-13 23:37:47.913 | INFO | STRATEGIC_SEARCH_SCROLL_AREA set to 1.0                                               
+2024-07-13 23:37:47.915 | INFO | [STRATEGIC_SEARCH_SCROLL_AREA] 0.53 (100.5-35.0)/(193-70)                             
+2024-07-13 23:37:47.916 | INFO | Swipe ( 907,  373) -> ( 902,  532)                                                    
+2024-07-13 23:37:48.254 | INFO | [STRATEGIC_SEARCH_SCROLL_AREA] 0.00 (nan-0.0)/(193-0)                                 
+2024-07-13 23:37:48.559 | INFO | [STRATEGIC_SEARCH_SCROLL_AREA] 1.00 (157.0-35.5)/(193-71)                             
+2024-07-13 23:37:48.564 | INFO | [auto_submit] on                                                                      
+2024-07-13 23:37:48.565 | INFO | Strategic search confirm                                                              
+2024-07-13 23:37:48.570 | INFO | Click ( 765,  527) @ POPUP_CONFIRM_STRATEGIC_SEARCH                                   
+2024-07-13 23:38:48.708 | INFO | Function calls:                                                                       
+          <string>   L1 <module>                                                                                       
+          spawn.py L105 spawn_main()                                                                                   
+          spawn.py L118 _main()                                                                                        
+        process.py L297 _bootstrap()                                                                                   
+        process.py  L99 run()                                                                                          
+process_manager.py L152 run_process()                                                                                  
+           alas.py L536 loop()                                                                                         
+           alas.py  L69 run()                                                                                          
+           alas.py L335 opsi_hazard1_leveling()                                                                        
+         os_run.py  L67 opsi_hazard1_leveling()                                                                        
+operation_siren.py L458 os_hazard1_leveling()                                                                          
+            map.py L728 run_strategic_search()                                                                         
+            map.py L594 os_auto_search_run()                                                                           
+      strategic.py L177 strategic_search_start()                                                                       
+      strategic.py L152 strategic_search_confirm()                                                                     
+         device.py L161 screenshot()                                                                                   
+         device.py L219 stuck_record_check()                                                                           
+         device.py  L40 show_function_call()                                                                           
+2024-07-13 23:38:48.711 | WARNING | Wait too long                                                                      
+2024-07-13 23:38:48.712 | WARNING | Waiting for {'MAP_GOTO_GLOBE_FOG', 'STRATEGIC_SEARCH_POPUP_CHECK'}                 
+2024-07-13 23:38:48.718 | INFO | newCommandTimeout updated to 168h0m0s                                                 
+2024-07-13 23:38:48.719 | INFO | [u2.Device] Device(atx_agent_url=http://127.0.0.1:1422)                               
+2024-07-13 23:38:48.733 | INFO | [Package_name] com.bilibili.azurlane                                                  
+2024-07-13 23:38:48.734 | ERROR | GameStuckError: Wait too long                                                        
+2024-07-13 23:38:48.735 | WARNING | Saving error: ./log/error/1720885128735                                            
